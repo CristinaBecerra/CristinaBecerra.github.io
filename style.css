@@ -1,0 +1,30 @@
+.PrincipalJumbotron{
+    background-image: url(img/greyfloral.png);
+    background-repeat: repeat;
+}
+
+.p-heading{
+    font-family: 'Satisfy', cursive;
+  
+}
+
+.footer-ul{
+    list-style: none;
+    display: inline-block;
+   
+}
+
+.footer-ul li a{
+    color: black;
+}
+
+.footer-ul li a:hover{
+    color: grey;
+}
+
+.footer-text{
+    margin-right: 20px;
+    margin-top: 50px;
+    font-size: 12px;
+    color: darkgrey;
+}
